@@ -4,6 +4,8 @@
 Situé dans la région île de France juste à côté de Paris
 ## lieux connu
 - Parc de la Planchette
+- ![Parc de la Planchette](./images/planchette.jpg)
+
 - Hôtel de ville
 - Cartier résidentiel moderne
  
